@@ -9,6 +9,6 @@ int main() {
     scanf("%i",&a);
 
 
-    printf("Print the entered number.", a);
+    printf("Print the entered integer.", a);
     return 0;
 }
