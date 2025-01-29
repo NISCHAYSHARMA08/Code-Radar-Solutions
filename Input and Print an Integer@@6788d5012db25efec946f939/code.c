@@ -9,6 +9,6 @@ int main() {
     scanf("%i",&a);
 
 
-    printf("You entered:", a);
+    printf("You entered: %d", a);
     return 0;
 }
