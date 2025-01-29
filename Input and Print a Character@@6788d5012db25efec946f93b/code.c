@@ -5,9 +5,9 @@
 // 
 
 int main() {
-    float a;
-    scanf("%f",&a);
+    char a;
+    scanf("%c",&a);
 
-    printf("You entered:",a);
+    printf("You entered: ",a);
     return 0;
 }
