@@ -6,7 +6,8 @@ int table;
 for (int i=1;i<=10;i++){
 
 table=i*n;
-printf("%d\n",table);
+
+printf("%d * %d = %d \n",n ,i , table);
 
 
 }
