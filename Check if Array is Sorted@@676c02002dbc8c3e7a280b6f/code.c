@@ -20,7 +20,7 @@ for (int i=0 ; i<n ; i++){
     printf("Sorted ");
   }
   else{
-    printf("Not sorted");
+    printf("Not Sorted");
   }
    
 
