@@ -17,7 +17,7 @@ for (int i=0 ; i<n ; i++){
   }
 }
   if (sorted){
-    printf("sorted ");
+    printf("Sorted ");
   }
   else{
     printf("not sorted");
